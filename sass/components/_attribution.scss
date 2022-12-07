@@ -1,0 +1,7 @@
+@use '../abstract/' as *;
+
+.attribution {
+	font-family: $attribution-font;
+	font-size: 1.4rem;
+	text-align: center;
+}
